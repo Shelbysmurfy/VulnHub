@@ -107,6 +107,9 @@ Y ahora ejecutando bash -p ya somos root.
 
 ![image](https://github.com/user-attachments/assets/d137b4e4-d3a0-4fac-be70-2763d2ead1f9)
 
+![image](https://github.com/user-attachments/assets/d4b43389-e4de-443f-bf5c-e8cc6f2eed9a)
+
+
 
 
 
